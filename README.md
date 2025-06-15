@@ -1,6 +1,6 @@
-<img src="https://i.imgur.com/AZp1VOP.jpg" width="100%"/>
+<img src="https://c4.wallpaperflare.com/wallpaper/568/805/139/nature-pixel-art-pixels-mountains-wallpaper-preview.jpg" width="100%"/>
 
-# I'm Cruz Pérez
+<h1 style="text-align:center;"> # I'm Cruz Pérez </h1>
 
 Currently enrolled at Tec de Monterrey Puebla, studying computer engineering. 
 
