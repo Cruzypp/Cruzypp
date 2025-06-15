@@ -9,4 +9,4 @@ Currently enrolled at Tec de Monterrey Puebla, studying computer engineering.
 ---
 
 ### Tools:
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,github,figma,chrome,linux,mysql,slack," />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,github,figma,linux,mysql,slack," />
